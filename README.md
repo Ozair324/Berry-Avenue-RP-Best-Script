@@ -2,7 +2,7 @@
 
 Step into the spotlight in **Berry Avenue RP** with the **Best Script**, a fast, keyless tool offering bold features like **Grab All**, **Rainbow Skin**, and **Crash Server** capabilities. Whether you're styling your avatar or going chaotic, this script keeps the experience wild and vibrant.
 
-![script-image](image-link-placeholder)
+![script-image](https://github.com/Ozair324/Berry-Avenue-RP-Best-Script/blob/main/_Berry%20Avenue%20RP%20-%20Best%20Script.png)
 
 ---
 
